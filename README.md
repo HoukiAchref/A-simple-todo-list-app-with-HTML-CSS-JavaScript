@@ -13,11 +13,6 @@ This project is a simple and interactive to-do list application built using HTML
 - [Contributing](#contributing)
 - [License](#license)
 
-## Demo
-
-[Link to your live demo (if deployed)]  *(Replace with your demo link)*
-
-Alternatively, you can include a short animated GIF or video demonstrating the app's functionality.
 
 ## Features
 

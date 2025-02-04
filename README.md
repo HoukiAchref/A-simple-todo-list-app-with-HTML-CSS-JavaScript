@@ -4,14 +4,14 @@ This project is a simple and interactive to-do list application built using HTML
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [How to Use](#how-to-use)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
+- [Screenshots](#screenshots)
+
+
+
+
 
 
 ## Features
@@ -34,3 +34,7 @@ This project is a simple and interactive to-do list application built using HTML
 1. Clone the repository:
    ```bash
    git clone [https://github.com/HoukiAchref/A-simple-todo-list-app-with-HTML-CSS-JavaScript](https://www.google.com/search?q=https://[github.com/HoukiAchref/A-simple-todo-list-app-with-HTML-CSS-JavaScript/new/main?filename=README.md](https://github.com/HoukiAchref/A-simple-todo-list-app-with-HTML-CSS-JavaScript))
+
+## screenshots
+![image](https://github.com/user-attachments/assets/711143f2-89c8-498e-80a9-35608820c918)
+
